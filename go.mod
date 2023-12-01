@@ -1,4 +1,4 @@
-module kopeechka-go
+module github.com/sleeyax/kopeechka-go
 
 go 1.21
 
