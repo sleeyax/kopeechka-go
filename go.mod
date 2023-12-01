@@ -1,4 +1,4 @@
-module kopeechka
+module kopeechka-go
 
 go 1.21
 
