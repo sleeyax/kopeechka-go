@@ -1,4 +1,4 @@
-# kapeechka-go
+# kopeechka-go
 API wrapper for https://kopeechka.store in go.
 
 ## Installation
