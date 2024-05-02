@@ -2,7 +2,7 @@
 API wrapper for https://kopeechka.store in go.
 
 ## Installation
-`go get github.com/sleeyax/kapeechka-go`
+`go get github.com/sleeyax/kopeechka-go`
 
 ## Usage
 
